@@ -1,0 +1,31 @@
+.icon {
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    background-image: url('0-sprite.png');
+    background-repeat: no-repeat;
+    vertical-align: middle;
+  }
+  
+
+  .i-html {
+    background-position: 0 0;
+  }
+  
+  .i-css {
+    background-position: -32px 0;
+  }
+  
+  .i-js {
+    background-position: -64px 0;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
